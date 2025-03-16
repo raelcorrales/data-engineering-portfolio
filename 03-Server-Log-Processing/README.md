@@ -43,14 +43,13 @@ The logs are structured with the following columns:
 ## Analysis Performed
 
 In the `notebook.ipynb`, the following analyses are performed:
-
-- **Cantidad de requests por hora y día**: Calcula la cantidad de solicitudes por cada hora y día.
-- **Top 5 URLs más visitadas**: Identifica las cinco URLs más visitadas en los logs.
-- **Cantidad de errores 4xx y 5xx**: Cuenta la cantidad de errores HTTP 4xx y 5xx.
-- **Tiempo de respuesta promedio por URL**: Calcula el tiempo de respuesta promedio por cada URL.
-- **Optimizar DataFrame usando Repartition**: Optimiza el DataFrame usando la función de repartición de Spark.
-- **Crear Temporal View**: Crea una vista temporal para ejecutar consultas en Spark SQL.
-- **Usando Spark SQL para obtener las vistas de las URLs**: Utiliza Spark SQL para obtener vistas detalladas de las URLs.
+- **Number of requests per hour and day**: Calculates the number of requests per hour and day.
+- **Top 5 most visited URLs**: Identify the five most visited URLs in the logs.
+- **Number of 4xx and 5xx errors**: Counts the number of 4xx and 5xx HTTP errors.
+- **Average response time per URL**: Calculates the average response time for each URL.
+- **Optimize DataFrame using Repartition**: Optimize the DataFrame using Spark's repartitioning feature.
+- **Create Temporal View**: Create a temporary view to run queries in Spark SQL.
+- **Using Spark SQL to get views of URLs**: Use Spark SQL to get detailed views of URLs.
 
 ## Output
 

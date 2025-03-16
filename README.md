@@ -1,5 +1,16 @@
 # Data Engineering Portfolio
-My name is Rael Corrales an I started uploading my portfolio of some data processing projects here. Welcome to my Data Engineering Portfolio! Each project is designed to demonstrate different aspects of data processing, transformation, and analysis using various tools and technologies.
+My name is **Rael Corrales** an I started uploading my portfolio of some data processing projects here. Welcome to my **Data Engineering Portfolio**! Each project is designed to demonstrate different aspects of data processing, transformation, and analysis using various tools and technologies.
+
+## Techologies
+- **Apache Beam**
+- **Apache Spark**
+- **Python**
+- **Pandas**
+-  **SQL**
+- **Seaborn**
+- **Matplotlib**
+- **Jupyter Notebook**
+- **NumPy**
 
 ## Projects
 
@@ -27,7 +38,7 @@ This project involves cleaning and reformatting data from a bank's marketing cam
 
 This project processes a dataset containing information about online gaming behavior to extract meaningful insights. The data undergoes cleaning, transformation, and analysis using an ETL (Extract, Transform, Load) pipeline.
 
-- **Technologies:** Jupyter Notebook, Python, Docker, Airflow, Spark, PostgreSQL, MongoDB
+- **Technologies:** Jupyter Notebook, Python, Pandas, Seaborn, Matplotlib
 - **Key Tasks:**
   - Clean and transform the data.
   - Cluster players based on metrics like playtime and purchases.
@@ -37,7 +48,7 @@ This project processes a dataset containing information about online gaming beha
 
 In this project, I process server log data to extract insights and monitor server performance. The project includes cleaning, transforming, and analyzing log entries to identify patterns and anomalies.
 
-- **Technologies:** Jupyter Notebook, Python
+- **Technologies:** Jupyter Notebook, Python, Pandas, pySpark
 - **Key Tasks:**
   - Parse and clean log data.
   - Identify and analyze patterns in server usage.

@@ -1,6 +1,5 @@
 # Data Engineering Portfolio
-
-Welcome to my Data Engineering Portfolio! This repository showcases various data engineering projects I have worked on. Each project is designed to demonstrate different aspects of data processing, transformation, and analysis using various tools and technologies.
+My name is Rael Corrales an I started uploading my portfolio of some data processing projects here. Welcome to my Data Engineering Portfolio! Each project is designed to demonstrate different aspects of data processing, transformation, and analysis using various tools and technologies.
 
 ## Projects
 
@@ -43,10 +42,3 @@ In this project, I process server log data to extract insights and monitor serve
   - Parse and clean log data.
   - Identify and analyze patterns in server usage.
   - Detect anomalies and potential issues in server performance.
-
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/raelcorrales/data-engineering-portfolio.git
-   cd data-engineering-portfolio
